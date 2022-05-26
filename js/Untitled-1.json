@@ -1,0 +1,26 @@
+{
+  "location": {
+    "city": "Sunnyvale"
+"region": " CA"
+"woeid": 2502265
+"country": "United States"
+"lat": 37.371609
+"long": -122.038254
+"timezone_id": "America/Los_Angeles"
+  }
+"current_observation": {
+    5 items
+"wind": {
+      3 items
+"chill": 77
+"direction": 350
+"speed": 8
+    }
+"atmosphere": {...
+    }4 items
+"astronomy": {...
+    }2 items
+"condition": {...
+    }3 items
+"pubDate": 1653508800
+  }
